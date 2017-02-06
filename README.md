@@ -19,7 +19,8 @@ Clone the project
 
 Install Eclipse
 
-Load the project into an Eclipse Workspace
+Load the project into an Eclipse Workspace. 
+Eclipse speak: load as "existing maven project" by importing directory containing pom.xml file.
 
 Run it (F11)
 
